@@ -1,1 +1,1 @@
-# Mini_finalPortfolio
+# Min_finalPortfolio
